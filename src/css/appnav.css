@@ -1,0 +1,20 @@
+.appnav .logo{
+	background-color: #404040;
+	text-align: center;
+}
+.appnav .user {
+	position: absolute;
+	top: 0px;
+	right:70px;
+}
+.appnav .user a{
+	margin-right: 10px;
+}
+.appnav .edit-btn {
+	margin-right: 20px;
+}
+.appnav .ant-layout-header .user-btn{
+	position: absolute;
+	right: 65px;
+	top: 18px;
+}

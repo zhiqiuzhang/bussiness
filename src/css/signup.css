@@ -1,0 +1,16 @@
+.signup .signup-form {
+	width: 60%;
+	padding: 20px;
+	border: 1px solid #eee;
+}
+.signup .signup-form h1{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.signup .signup-form .ant-input-group-addon{
+	padding: 0px;
+}
+.signup .signup-form .submit.ant-btn{
+	width: 100%;
+}
